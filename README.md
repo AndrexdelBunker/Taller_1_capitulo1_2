@@ -1,2 +1,1 @@
-# Taller_1_capitulo1_2
-hola
+1/2+1/2
