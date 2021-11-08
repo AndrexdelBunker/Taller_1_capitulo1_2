@@ -49,3 +49,4 @@
 11. Realice las siguientes multiplicaciones:
 <img src="https://latex.codecogs.com/svg.image?(\alpha&space;).&space;(5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9}&space;" title="(\alpha ). (5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9} " />
 
+<img src="https://latex.codecogs.com/svg.image?~I=&space;\frac{Q}{t}\\~~~~~~Q=&space;I*t\\~~~~~~Q=&space;2A*15S\\~~~~~~Q=&space;30~C\\~~~~~~V=&space;\frac{W}{Q}\\~~~~~~\frac{1000J}{30C}\\~~~~~~V=&space;33,3~v~Respuesta" title="~I= \frac{Q}{t}\\~~~~~~Q= I*t\\~~~~~~Q= 2A*15S\\~~~~~~Q= 30~C\\~~~~~~V= \frac{W}{Q}\\~~~~~~\frac{1000J}{30C}\\~~~~~~V= 33,3~v~Respuesta" />
