@@ -47,6 +47,8 @@
 
 <img src="https://latex.codecogs.com/svg.image?\textrm{}&space;\bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)&plus;\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}&plus;0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" title="\textrm{} \bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)+\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}+0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" />
 11. Realice las siguientes multiplicaciones:
-<img src="https://latex.codecogs.com/svg.image?(\alpha&space;).&space;(5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9}&space;" title="(\alpha ). (5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9} " />
 
-<img src="https://latex.codecogs.com/svg.image?~I=&space;\frac{Q}{t}\\~~~~~~Q=&space;I*t\\~~~~~~Q=&space;2A*15S\\~~~~~~Q=&space;30~C\\~~~~~~V=&space;\frac{W}{Q}\\~~~~~~\frac{1000J}{30C}\\~~~~~~V=&space;33,3~v~Respuesta" title="~I= \frac{Q}{t}\\~~~~~~Q= I*t\\~~~~~~Q= 2A*15S\\~~~~~~Q= 30~C\\~~~~~~V= \frac{W}{Q}\\~~~~~~\frac{1000J}{30C}\\~~~~~~V= 33,3~v~Respuesta" />
+<img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}a\end{smallmatrix}\bigr).&space;(5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9}&space;" title="(\begin{smallmatrix}a\end{smallmatrix}\bigr). (5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9} " />
+
+<img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}b\end{smallmatrix}\bigr).&space;(1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3.6\times&space;10^{14}&space;" title="(\begin{smallmatrix}b\end{smallmatrix}\bigr). (1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3.6\times&space;10^{14} " />
+
