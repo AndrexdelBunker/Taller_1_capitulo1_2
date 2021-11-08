@@ -17,8 +17,10 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. OBJETIVOS
-* Estudiar los conceptos basicos de la eléctrica y electrónica 
-* 
+
+* Estudiar los conceptos basicos de la eléctrica y electrónica por medio de la resolucion de ejercicios propuestos en la clase de Fundamentos de Circuitos Electricos 
+
+1.2 OBJETIVOS ESPECIFICOS 
 
 
 
