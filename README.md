@@ -1,6 +1,24 @@
-“UNIVERSIDAD DE LAS FUERZAS ARMADAS” 
+
+**“UNIVERSIDAD DE LAS FUERZAS ARMADAS”**
 
 “ESPE”
+**“ESPE”**
+
+1. OBJETIVOS
+* Estudiar los conceptos basicos de la electronica 
+* 
+![Logo_ESPE](https://user-images.githubusercontent.com/93800511/140828546-04ee2765-180c-4e68-84cf-8bca73c21c5f.png)
+
+**INTEGRANTES**
+* Coello Ismael 
+* Paola Morales 
+* Andrés Granda 
+**CLASE**
+* FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
+
+**FECHA DE ENTREGA**
+* 09/11/2021
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. OBJETIVOS
 * Estudiar los conceptos basicos de la electronica 
