@@ -1,6 +1,7 @@
 “UNIVERSIDAD DE LAS FUERZAS ARMADAS” 
 
 “ESPE”
+aaaaaaaaa
 
 1. OBJETIVOS
 * Estudiar los conceptos basicos de la electronica 
