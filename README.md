@@ -37,4 +37,7 @@ Capitulo 1
 
 Capitulo 2
 
-<img src="https://latex.codecogs.com/svg.image?Cu~\to&space;29~\bar{e}\\2,9\times&space;10^{1}\\Q~=&space;\frac{numero~de~electrones}{6,25\times&space;10^{18}~C}\\Q~=&space;\frac{2,9\times&space;10^{1}}{6,25\times&space;10^{18}~C}\\Q~=4,64\times&space;10^{-18}~c" title="Cu~\to 29~\bar{e}\\2,9\times 10^{1}\\Q~= \frac{numero~de~electrones}{6,25\times 10^{18}~C}\\Q~= \frac{2,9\times 10^{1}}{6,25\times 10^{18}~C}\\Q~=4,64\times 10^{-18}~c" />
+<img src="https://latex.codecogs.com/svg.image?Cu~\to&space;29~\bar{e}\\2,9\times&space;10^{1}\\Q~=&space;\frac{numero~de~electrones}{6,25\times&space;10^{18}~C}\\Q~=&space;\frac{2,9\times&space;10^{1}}{6,25\times&space;10^{18}~C}\\Q~=4,64\times&space;10^{-18}~c" title="Cu~\to 29~\bar{e}\\2,9\times 10^{1}\\Q~= \frac{numero~de~electrones}{6,25\times 10^{18}~C}\\Q~= \frac{2,9\times 10^{1}}{6,25\times 10^{18}~C}\\Q~=4,64\times 10^{-18}~c~Respuesta" />
+
+
+<img src="https://latex.codecogs.com/svg.image?50\times&space;10^{31}~\bar{e}\\Q~=&space;\frac{numero~de~electrones}{6,25\times&space;10^{18}~C}\\Q~=&space;\frac{50\times&space;10^{31}}{6,25\times&space;10^{18}~C}\\Q~=8\times&space;10^{13}~c\\Q~=80\times&space;10^{12}C~Respuesta" title="50\times 10^{31}~\bar{e}\\Q~= \frac{numero~de~electrones}{6,25\times 10^{18}~C}\\Q~= \frac{50\times 10^{31}}{6,25\times 10^{18}~C}\\Q~=8\times 10^{13}~c\\Q~=80\times 10^{12}C~Respuesta" />
