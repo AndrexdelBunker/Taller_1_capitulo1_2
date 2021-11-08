@@ -21,9 +21,7 @@
 * 
 
 
-Capitulo 1
 
-<img src="https://latex.codecogs.com/svg.image?\int_{4}^{6}5&plus;12/2" title="\int_{4}^{6}5+12/2" />
 
 1. Exprese cada uno de los números siguientes en notación científica:
 
