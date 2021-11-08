@@ -63,3 +63,5 @@ Capitulo 2
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~\frac{100~J}{25C}\\~~~~~~~~~~~V=&space;\frac{W}{Q}\\~~~~~~~~~~~V=&space;\frac{100J}{25C}~~~~~~~~~~~\\~~~~~~~~~~~V=&space;4~v~Respuesta" title="\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~\frac{100~J}{25C}\\~~~~~~~~~~~V=&space;\frac{W}{Q}\\~~~~~~~~~~~V=&space;\frac{100J}{25C}~~~~~~~~~~~\\~~~~~~~~~~~V=&space;4~v~Respuesta" />
 
 <img src="https://latex.codecogs.com/svg.image?~I=&space;\frac{Q}{t}\\~~~~~~Q=&space;I*t\\~~~~~~Q=&space;2A*15S\\~~~~~~Q=&space;30~C\\~~~~~~V=&space;\frac{W}{Q}\\~~~~~~\frac{1000J}{30C}\\~~~~~~V=&space;33,3~v~Respuesta" title="~I= \frac{Q}{t}\\~~~~~~Q= I*t\\~~~~~~Q= 2A*15S\\~~~~~~Q= 30~C\\~~~~~~V= \frac{W}{Q}\\~~~~~~\frac{1000J}{30C}\\~~~~~~V= 33,3~v~Respuesta" />
+
+<img src="https://latex.codecogs.com/svg.image?I=&space;\frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" title="I= \frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" />
