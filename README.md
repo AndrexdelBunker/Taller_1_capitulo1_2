@@ -37,4 +37,4 @@ Capitulo 1
 
 Capitulo 2
 
-
+<img src="https://latex.codecogs.com/svg.image?Cu~\to&space;29~\bar{e}\\2,9\times&space;10^{1}\\Q~=&space;\frac{numero~de~electrones}{6,25\times&space;10^{18}~C}\\Q~=&space;\frac{2,9\times&space;10^{1}}{6,25\times&space;10^{18}~C}\\Q~=4,64\times&space;10^{-18}~c" title="Cu~\to 29~\bar{e}\\2,9\times 10^{1}\\Q~= \frac{numero~de~electrones}{6,25\times 10^{18}~C}\\Q~= \frac{2,9\times 10^{1}}{6,25\times 10^{18}~C}\\Q~=4,64\times 10^{-18}~c" />
