@@ -61,17 +61,7 @@
 
 **9. Sume los números siguientes:**
 
-<img src="https://latex.codecogs.com/svg.image?\\~\bigl(
-a
-.\bigr)~\bigl(
-9,2×space;106
-\bigr)&plus;\bigl(
-3,4×space;107
-\bigr)~~~~~\bigl(
-b
-.\bigr)~\bigl(
-5×space;103
-\bigr)&plus;\bigl(
+<img src="https://latex.codecogs.com/svg.image?\\~\bigl(a.\bigr)~\bigl(9,2×space;106\bigr)&plus;\bigl(3,4×space;107\bigr)~~~~~\bigl(b.\bigr)~\bigl(5×space;103\bigr)&plus;\bigl(
 8,5×space;10−1
 \bigr)~~~~\\~~~~~~~~~0,92\times&space;10^{7}&plus;3,4\times&space;10^{7}~~~~~~~~~5000&plus;0,85\\~~~~~~~~~4,32\times&space;10^{7}~Respuesta~~~~~~~~~~5000,85~Respuesta" title="9.Sume~los~numeros~siguientes\\~\bigl(
 a
