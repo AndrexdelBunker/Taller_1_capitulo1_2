@@ -27,7 +27,7 @@
 
 **2.MARCO TEÓRICO**
 
-![UNIDADES DE MEDICIÓN (1)](https://user-images.githubusercontent.com/93835587/140856327-cf55b9c4-78e3-424e-8008-dce7b1f7d4a0.jpeg)
+UNIDADES DE MEDICIÓN 
 
 
 ![U![Diagrama en blanco](https://user-images.githubusercontent.com/93835587/140856179-f614992b-40ef-4beb-b4de-cb75c950a8c6.jpeg)
