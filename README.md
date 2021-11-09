@@ -95,15 +95,15 @@
 
 <img src="https://latex.codecogs.com/svg.image?(b).(68\times&space;10^{6})&plus;(33\times&space;10^{6})=&space;101\times&space;10^{6}" title="(b).(68\times 10^{6})+(33\times 10^{6})= 101\times 10^{6}" />
 
-<img src="https://latex.codecogs.com/svg.image?(c).(1.25\times&space;10^{6})&plus;(250\times&space;10^{3})=&space;1.5\times&space;10^{5}" title="(c).(1.25\times 10^{6})+(250\times 10^{3})= 15\times 10^{6}" />
+<img src="https://latex.codecogs.com/svg.image?(c).(1.25\times&space;10^{6})&plus;(250\times&space;10^{3})=&space;1.5\times&space;10^{6}" title="(c).(1.25\times&space;10^{6})&plus;(250\times&space;10^{3})=&space;1.5\times&space;10^{6}" />
 
 **19.Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-<img src="https://latex.codecogs.com/svg.image?(a).(50)/(2.2\times&space;10^{3})=&space;0.022\times&space;10^{-3}" title="(a).(50)/(2.2\times 10^{3})= 0.02272727273\times 1.0^{-3}" />
+<img src="https://latex.codecogs.com/svg.image?(a).(50)/(2.2\times&space;10^{3})=&space;0.022\times&space;10^{-3}" title="(a).(50)/(2.2\times&space;10^{3})=&space;0.022\times&space;10^{-3}" />
 
-<img src="https://latex.codecogs.com/svg.image?(b).(5\times&space;10^{3})/(25\times&space;10^{-6})=&space;2\times&space;10^{8}" title="(b).(5\times 10^{3})/(25\times 10^{-6})= 2.6\times 10^{9}" />
+<img src="https://latex.codecogs.com/svg.image?(b).(5\times&space;10^{3})/(25\times&space;10^{-6})=&space;2\times&space;10^{9}" title="(b).(5\times 10^{3})/(25\times 10^{-6})= 2.6\times 10^{9}" />
 
-<img src="https://latex.codecogs.com/svg.image?(c).(560\times&space;10^{3})/(660\times&space;10^{3})=&space;8.484848485\times&space;10^{-1}" title="(c).(560\times 10^{3})/(660\times 10^{3})= 8.484848485\times 0.01^{-3}" />
+<img src="https://latex.codecogs.com/svg.image?(c).(560\times&space;10^{3})/(660\times&space;10^{3})=&space;8.48\times&space;10^{-3}" title="(c).(560\times 10^{3})/(660\times 10^{3})= 8.484848485\times 0.01^{-3}" />
 
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
