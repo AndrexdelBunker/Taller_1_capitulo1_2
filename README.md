@@ -54,6 +54,23 @@
 
 <img src="https://latex.codecogs.com/svg.image?\textrm{}&space;\bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)&plus;\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}&plus;0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" title="\textrm{} \bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)+\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}+0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" />
 
+**11.Realice las siguientes multiplicaciones:**
+
+<img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}a\end{smallmatrix}\bigr).&space;(5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9}&space;" title="(\begin{smallmatrix}a\end{smallmatrix}\bigr). (5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9} " />
+
+<img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}b\end{smallmatrix}\bigr).&space;(1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3\times&space;10^{14}&space;" title="(\begin{smallmatrix}b\end{smallmatrix}\bigr). (1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3\times&space;10^{14} " />
+
+<img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}c\end{smallmatrix}\bigr).&space;(1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3.6\times&space;10^{14}&space;" title="(\begin{smallmatrix}c\end{smallmatrix}\bigr). (1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3.6\times&space;10^{14} " />
+
+**13.Exprese cada uno de los números siguientes en notación de ingeniería:**
+
+<img src="https://latex.codecogs.com/svg.image?(a&space;)&space;89.000=&space;8.9\times&space;10^{4}" title="(a ) 89.000= 8.9\times 10^{4}" />
+
+<img src="https://latex.codecogs.com/svg.image?(b)&space;450.000&space;=&space;4.5\times&space;10^{5}" title="(b) 450.000 = 4.5\times 10^{5}" />
+
+<img src="https://latex.codecogs.com/svg.image?(c)&space;0.00000000129&space;=1.29&space;\times&space;10^{-9}" title="(c) 0.00000000129 =1.29 \times 10^{-9}" />
+
+
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
 
