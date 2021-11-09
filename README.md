@@ -86,6 +86,14 @@
 
 <img src="https://latex.codecogs.com/svg.image?(c).(1.25\times&space;10^{6})&plus;(250\times&space;10^{3})=&space;1.5\times&space;10^{5}" title="(c).(1.25\times 10^{6})+(250\times 10^{3})= 1.5\times 10^{5}" />
 
+**19.Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
+
+<img src="https://latex.codecogs.com/svg.image?(a).(50)/(2.2\times&space;10^{3})=&space;0.02272727273\times&space;10^{-2}" title="(a).(50)/(2.2\times 10^{3})= 0.02272727273\times 10^{-2}" />
+
+<img src="https://latex.codecogs.com/svg.image?(b).(5\times&space;10^{3})/(25\times&space;10^{-6})=&space;2\times&space;10^{8}" title="(b).(5\times 10^{3})/(25\times 10^{-6})= 2\times 10^{8}" />
+
+<img src="https://latex.codecogs.com/svg.image?(c).(560\times&space;10^{3})/(660\times&space;10^{3})=&space;8.484848485\times&space;10^{-1}" title="(c).(560\times 10^{3})/(660\times 10^{3})= 8.484848485\times 10^{-1}" />
+
 **//Capitulo 2//**
 
 **1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
@@ -128,11 +136,11 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G=&space;\frac{1}{100\mho&space;}\\~~~~~~~~~~~G=&space;0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G= \frac{1}{100\mho }\\~~~~~~~~~~~G= 0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
 
-31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2
+**31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2**
 
 ![EJERCICIO_31](https://user-images.githubusercontent.com/93835587/140844641-fd05c4c8-067f-42b8-a2c6-6683e9b45708.jpg)
 
-33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito
+**33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito**
 
 ![EJERCICIO33](https://user-images.githubusercontent.com/93835587/140845371-7262780e-bd33-4aa7-9aa4-88dbaa4e86df.jpg)
 
