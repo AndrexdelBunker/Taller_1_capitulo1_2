@@ -250,6 +250,30 @@ cada resistor tiene tolerancia del 1 por ciento.**
  
 ![ejercicio35](https://user-images.githubusercontent.com/93835587/140848458-2dca81f5-d455-443f-a8b0-61e3921a2307.jpg)
 
+**37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.**
+
+* Medir corriente: se  coloca el amperímetro en el circuito eléctrico tal que sus punto de polaridad creen una conexión en  serie (uno despues del otro) y sus signos de polaridad coincidan con los de la fuente de voltaje.
+
+![amperimetro](https://user-images.githubusercontent.com/93835533/140876613-923bb95d-863b-46b9-bc5f-13c17df2cf75.png)
+
+* Medir voltaje: se colocan los cables del voltímetro en el circuito elétrico tal que estos creen una conexión en paralelo y sus signos de polaridad coincidan con los de la fuente de voltaje.
+
+![voltimetro](https://user-images.githubusercontent.com/93835533/140879068-7bef4c36-6426-44dc-8fe1-0b44da94b8a4.png)
+
+**39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?**
+
+
+
+
+
+
+**41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.**
+
+
+
+
+
+
 **43¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?**
 
 ![m1](https://user-images.githubusercontent.com/93800511/140852486-5b661dc7-c2bb-459f-b12b-d4eac8582c4f.png)
