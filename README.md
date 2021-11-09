@@ -9,7 +9,6 @@
 * Coello Ismael 
 * Paola Morales 
 * Andrés Granda 
-
 **CLASE**
 * FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
 
@@ -55,15 +54,6 @@
 
 <img src="https://latex.codecogs.com/svg.image?\textrm{}&space;\bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)&plus;\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}&plus;0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" title="\textrm{} \bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)+\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}+0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" />
 
-**11.Realice las siguientes multiplicaciones:**
-
-<img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}a\end{smallmatrix}\bigr).&space;(5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9}&space;" title="(\begin{smallmatrix}a\end{smallmatrix}\bigr). (5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9} " />
-
-<img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}b\end{smallmatrix}\bigr).&space;(1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3\times&space;10^{14}&space;" title="(\begin{smallmatrix}b\end{smallmatrix}\bigr). (1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3\times&space;10^{14} " />
-
-<img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}c\end{smallmatrix}\bigr).&space;(1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3.6\times&space;10^{14}&space;" title="(\begin{smallmatrix}c\end{smallmatrix}\bigr). (1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3.6\times&space;10^{14} " />
-
-
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
 
@@ -85,3 +75,11 @@
 <img src="https://latex.codecogs.com/svg.image?I=&space;\frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" title="I= \frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" />
 
 <img src="https://latex.codecogs.com/svg.image?Q=&space;I*t\\~~~~~Q=&space;1,5~A~*~0,1~s\\~~~~~Q=&space;0,15C" title="Q= I*t\\~~~~~Q= 1,5~A~*~0,1~s\\~~~~~Q= 0,15C" />
+
+<img src="https://latex.codecogs.com/svg.image?G=&space;\frac{1}{R}\\G=&space;Conductancia\\R=&space;Resistencia" title="G= \frac{1}{R}\\G= Conductancia\\R= Resistencia" />
+
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a.\end{smallmatrix}\bigr)~G=&space;\frac{1}{5\mho&space;}\\~~~~~~~~~~~G=&space;0,2~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;200~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}a.\end{smallmatrix}\bigr)~G= \frac{1}{5\mho }\\~~~~~~~~~~~G= 0,2~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 200~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
+
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}b.\end{smallmatrix}\bigr)~G=&space;\frac{1}{25\mho&space;}\\~~~~~~~~~~~G=&space;0,04~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;40~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}b.\end{smallmatrix}\bigr)~G= \frac{1}{25\mho }\\~~~~~~~~~~~G= 0,04~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 40~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
+
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G=&space;\frac{1}{100\mho&space;}\\~~~~~~~~~~~G=&space;0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G= \frac{1}{100\mho }\\~~~~~~~~~~~G= 0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
