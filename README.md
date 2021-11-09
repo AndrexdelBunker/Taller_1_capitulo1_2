@@ -128,5 +128,7 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G=&space;\frac{1}{100\mho&space;}\\~~~~~~~~~~~G=&space;0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G= \frac{1}{100\mho }\\~~~~~~~~~~~G= 0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
 
+31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2
+
 ![EJERCICIO_31](https://user-images.githubusercontent.com/93835587/140844641-fd05c4c8-067f-42b8-a2c6-6683e9b45708.jpg)
 
