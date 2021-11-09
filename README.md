@@ -8,7 +8,8 @@
 **INTEGRANTES**
 * Coello Ismael 
 * Paola Morales 
-* Andrés Granda 
+* Andrés Granda
+ 
 **CLASE**
 * FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
 
@@ -129,7 +130,7 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 
 <img src="https://latex.codecogs.com/svg.image?I=&space;\frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" title="I= \frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" />
 
-13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+**13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?**
 
 <img src="https://latex.codecogs.com/svg.image?Q=&space;I*t\\~~~~~Q=&space;1,5~A~*~0,1~s\\~~~~~Q=&space;0,15C" title="Q= I*t\\~~~~~Q= 1,5~A~*~0,1~s\\~~~~~Q= 0,15C" />
 
