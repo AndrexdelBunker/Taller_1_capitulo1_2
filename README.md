@@ -218,7 +218,7 @@ cada resistor tiene tolerancia del 1 por ciento.**
 
 //Amarillo/Violeta/Negro/Cafe/Cafe//
 
-![resistenciadP-800x800](https://user-images.githubusercontent.com/93800511/140947616-ca121a8b-7a27-4511-b131-d350a37d5a0f.jpg)
+![61IQn9hOfiL _AC_SY355_](https://user-images.githubusercontent.com/93800511/140948096-f4a08d75-1c63-4a39-903c-9cf5e14fabbc.jpg)
 
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2**
 
