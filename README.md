@@ -119,6 +119,29 @@ b
 
 <img src="https://latex.codecogs.com/svg.image?(c).(560\times&space;10^{3})/(660\times&space;10^{3})=&space;8.484848485\times&space;10^{-1}" title="(c).(560\times 10^{3})/(660\times 10^{3})= 8.484848485\times 10^{-1}" />
 
+
+**21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
+
+<img src="https://latex.codecogs.com/svg.image?\\(a)345x10^{-6}=345~Microamperes(\mu&space;A)\\\\(b)25x10^{-3}=25~Miliamperes&space;(mA)\\\\(c)1.29x10^{-9}=1.29~Nanoamperes(nA)&space;" title="\\(a)345x10^{-6}=345~Microamperes(\mu A)\\\\(b)25x10^{-3}=25~Miliamperes (mA)\\\\(c)1.29x10^{-9}=1.29~Nanoamperes(nA) " />
+
+**23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
+
+<img src="https://latex.codecogs.com/svg.image?\\(a)3x10^{-6}F=3\mu&space;F~(microfaradios)\\\\(b)3.3x10^{6}\Omega&space;=3.3M\Omega~&space;(megaohmios)\\\\(c)350x10^{-9}A=350nA~&space;(nanoamperes)&space;" title="\\(a)3x10^{-6}F=3\mu F~(microfaradios)\\\\(b)3.3x10^{6}\Omega =3.3M\Omega~ (megaohmios)\\\\(c)350x10^{-9}A=350nA~ (nanoamperes) " />
+
+**25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
+
+<img src="https://latex.codecogs.com/svg.image?\\(a)7.5pA&space;=7.5x10^{-12}A\\\\(b)3.3GHz&space;=3.3x10^{9}Hz\\\\(c)280nW&space;=280x10^{-9}W&space;" title="\\(a)7.5pA =7.5x10^{-12}A\\\\(b)3.3GHz =3.3x10^{9}Hz\\\\(c)280nW =280x10^{-9}W " />
+
+**27. Realice las conversiones indicadas:**
+
+<img src="https://latex.codecogs.com/svg.image?\\(a)5~mA&space;~a&space;~microamperes=&space;5000~microamperes\\\\5mA=5x10^{-3}A=5000x10^{-6}A\\\\(b)3200~\mu&space;W~&space;a&space;~miliwatts=3.2~&space;miliwatts\\\\3200\mu&space;W=3200x10^{-6}W=3.2x10^{-3}W\\\\(c)5000~&space;kV~&space;a~&space;megavolts&space;=&space;5~megavolts\\\\5000kV=5000x10^{3}V=5x10^{6}V\\\\(d)10~MW~&space;a~&space;kilowatts=10000~kilowatts\\\\10MW=10x10^{6}W=10000x10^{3}W&space;" title="\\(a)5~mA ~a ~microamperes= 5000~microamperes\\\\5mA=5x10^{-3}A=5000x10^{-6}A\\\\(b)3200~\mu W~ a ~miliwatts=3.2~ miliwatts\\\\3200\mu W=3200x10^{-6}W=3.2x10^{-3}W\\\\(c)5000~ kV~ a~ megavolts = 5~megavolts\\\\5000kV=5000x10^{3}V=5x10^{6}V\\\\(d)10~MW~ a~ kilowatts=10000~kilowatts\\\\10MW=10x10^{6}W=10000x10^{3}W " />
+
+**29. Sume las siguientes cantidades:**
+
+<img src="https://latex.codecogs.com/svg.image?\\(a)50~mA&space;&plus;&space;680~\mu&space;A\\\\680x10^{-6}A&space;\Rightarrow&space;0.68x10^{-3}A\\50mA&plus;0.68mA=50.68mA\\\\(b)120~k\Omega&space;&space;&plus;&space;2.2~M\Omega&space;\\\\120x10^{3}\Omega&space;\Rightarrow&space;0.12x10^{6}\Omega&space;\\0.12M\Omega&space;&plus;2.2M\Omega&space;=&space;2.32M\Omega&space;&space;\\\\(c)0.02~\mu&space;F&space;&plus;&space;3300~pF\\\\3300x10^{-12}F\Rightarrow&space;0.0033x10^{-6}F\\0.02\mu&space;F&plus;0.0033\mu&space;F&space;=&space;0.0233\mu&space;F\\&space;" title="\\(a)50~mA + 680~\mu A\\\\680x10^{-6}A \Rightarrow 0.68x10^{-3}A\\50mA+0.68mA=50.68mA\\\\(b)120~k\Omega + 2.2~M\Omega \\\\120x10^{3}\Omega \Rightarrow 0.12x10^{6}\Omega \\0.12M\Omega +2.2M\Omega = 2.32M\Omega \\\\(c)0.02~\mu F + 3300~pF\\\\3300x10^{-12}F\Rightarrow 0.0033x10^{-6}F\\0.02\mu F+0.0033\mu F = 0.0233\mu F\\ " />
+
+
+
 **//Capitulo 2//**
 
 **1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
