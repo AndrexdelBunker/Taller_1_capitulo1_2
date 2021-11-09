@@ -36,6 +36,9 @@
 
 ![NOTACION2](https://user-images.githubusercontent.com/93835587/140858434-3314f052-d50e-453f-b400-45bde71338a5.jpeg)
 
+![conversiones](https://user-images.githubusercontent.com/93835587/140859302-05a6a651-2bbd-461e-a53b-94fd474678eb.jpeg)
+
+
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
 
 **//Capitulo 1//**
