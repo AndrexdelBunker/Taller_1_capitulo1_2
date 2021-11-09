@@ -75,19 +75,19 @@
 
 **13.Exprese cada uno de los números siguientes en notación de ingeniería:**
 
-<img src="https://latex.codecogs.com/svg.image?(a&space;)&space;89.000=&space;8.9\times&space;10^{4}" title="(a ) 89.000= 8.9\times 10^{4}" />
+<img src="https://latex.codecogs.com/svg.image?(a&space;)&space;89.000=&space;8.9\times&space;10^{4}" title="(a ) 89.000= 89\times 10^{3}" />
 
-<img src="https://latex.codecogs.com/svg.image?(b)&space;450.000&space;=&space;4.5\times&space;10^{5}" title="(b) 450.000 = 4.5\times 10^{5}" />
+<img src="https://latex.codecogs.com/svg.image?(b)&space;450.000&space;=&space;4.5\times&space;10^{5}" title="(b) 450.000 = 450\times 10^{6}" />
 
 <img src="https://latex.codecogs.com/svg.image?(c)&space;0.00000000129&space;=1.29&space;\times&space;10^{-9}" title="(c) 0.00000000129 =1.29 \times 10^{-9}" />
 
 **15.Exprese cada uno de los números siguientes en notación de ingeniería:**
 
-<img src="https://latex.codecogs.com/svg.image?(a)0.00345&space;=2.45&space;\times&space;10^{-4}" title="(a)0.00345 =2.45 \times 10^{-4}" />
+<img src="https://latex.codecogs.com/svg.image?(a)0.00345&space;=2.45&space;\times&space;10^{-4}" title="(a)0.00345 =24 \times 10^{-3}" />
 
-<img src="https://latex.codecogs.com/svg.image?(b)0.025&space;=2.45&space;\times&space;10^{-2}" title="(b)0.025 =2.45 \times 10^{-2}" />
+<img src="https://latex.codecogs.com/svg.image?(b)0.025&space;=2.45&space;\times&space;10^{-2}" title="(b)0.025 =24 \times 10^{-3}" />
 
-<img src="https://latex.codecogs.com/svg.image?(c)12.040.000.000.000&space;=1.204&space;\times&space;10^{13}" title="(c)12.040.000.000.000 =1.204 \times 10^{13}" />
+<img src="https://latex.codecogs.com/svg.image?(c)12.040.000.000.000&space;=1.204&space;\times&space;10^{13}" title="(c)12.040.000.000.000 =12 \times 10^{12}" />
 
 **17.Sume los números siguientes y exprese cada resultado en notación de ingenieria**
 
@@ -95,15 +95,15 @@
 
 <img src="https://latex.codecogs.com/svg.image?(b).(68\times&space;10^{6})&plus;(33\times&space;10^{6})=&space;101\times&space;10^{6}" title="(b).(68\times 10^{6})+(33\times 10^{6})= 101\times 10^{6}" />
 
-<img src="https://latex.codecogs.com/svg.image?(c).(1.25\times&space;10^{6})&plus;(250\times&space;10^{3})=&space;1.5\times&space;10^{5}" title="(c).(1.25\times 10^{6})+(250\times 10^{3})= 1.5\times 10^{5}" />
+<img src="https://latex.codecogs.com/svg.image?(c).(1.25\times&space;10^{6})&plus;(250\times&space;10^{3})=&space;1.5\times&space;10^{5}" title="(c).(1.25\times 10^{6})+(250\times 10^{3})= 15\times 10^{6}" />
 
 **19.Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-<img src="https://latex.codecogs.com/svg.image?(a).(50)/(2.2\times&space;10^{3})=&space;0.02272727273\times&space;10^{-2}" title="(a).(50)/(2.2\times 10^{3})= 0.02272727273\times 10^{-2}" />
+<img src="https://latex.codecogs.com/svg.image?(a).(50)/(2.2\times&space;10^{3})=&space;0.02272727273\times&space;10^{-2}" title="(a).(50)/(2.2\times 10^{3})= 0.02272727273\times 1.0^{-3}" />
 
-<img src="https://latex.codecogs.com/svg.image?(b).(5\times&space;10^{3})/(25\times&space;10^{-6})=&space;2\times&space;10^{8}" title="(b).(5\times 10^{3})/(25\times 10^{-6})= 2\times 10^{8}" />
+<img src="https://latex.codecogs.com/svg.image?(b).(5\times&space;10^{3})/(25\times&space;10^{-6})=&space;2\times&space;10^{8}" title="(b).(5\times 10^{3})/(25\times 10^{-6})= 2.6\times 10^{9}" />
 
-<img src="https://latex.codecogs.com/svg.image?(c).(560\times&space;10^{3})/(660\times&space;10^{3})=&space;8.484848485\times&space;10^{-1}" title="(c).(560\times 10^{3})/(660\times 10^{3})= 8.484848485\times 10^{-1}" />
+<img src="https://latex.codecogs.com/svg.image?(c).(560\times&space;10^{3})/(660\times&space;10^{3})=&space;8.484848485\times&space;10^{-1}" title="(c).(560\times 10^{3})/(660\times 10^{3})= 8.484848485\times 0.01^{-3}" />
 
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
