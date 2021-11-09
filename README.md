@@ -9,6 +9,7 @@
 * Coello Ismael 
 * Paola Morales 
 * Andrés Granda 
+
 **CLASE**
 * FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
 
@@ -54,20 +55,31 @@
 
 <img src="https://latex.codecogs.com/svg.image?\textrm{}&space;\bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)&plus;\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}&plus;0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" title="\textrm{} \bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)+\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}+0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" />
 
+**11.Realice las siguientes multiplicaciones:**
+
+<img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}a\end{smallmatrix}\bigr).&space;(5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9}&space;" title="(\begin{smallmatrix}a\end{smallmatrix}\bigr). (5\times10^{3})(4\times10^{5})~Respuesta~~~~~~~~~2\times&space;10^{9} " />
+
+<img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}b\end{smallmatrix}\bigr).&space;(1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3\times&space;10^{14}&space;" title="(\begin{smallmatrix}b\end{smallmatrix}\bigr). (1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3\times&space;10^{14} " />
+
+<img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}c\end{smallmatrix}\bigr).&space;(1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3.6\times&space;10^{14}&space;" title="(\begin{smallmatrix}c\end{smallmatrix}\bigr). (1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3.6\times&space;10^{14} " />
+
+**13.Exprese cada uno de los números siguientes en notación de ingeniería:**
+
+<img src="https://latex.codecogs.com/svg.image?(a&space;)&space;89.000=&space;8.9\times&space;10^{4}" title="(a ) 89.000= 8.9\times 10^{4}" />
+
+<img src="https://latex.codecogs.com/svg.image?(b)&space;450.000&space;=&space;4.5\times&space;10^{5}" title="(b) 450.000 = 4.5\times 10^{5}" />
+
+<img src="https://latex.codecogs.com/svg.image?(c)&space;0.00000000129&space;=1.29&space;\times&space;10^{-9}" title="(c) 0.00000000129 =1.29 \times 10^{-9}" />
+
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
 
 **//Capitulo 2//**
-11. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 
 <img src="https://latex.codecogs.com/svg.image?Cu~\to&space;29~\bar{e}\\2,9\times&space;10^{1}\\Q~=&space;\frac{numero~de~electrones}{6,25\times&space;10^{18}~C}\\Q~=&space;\frac{2,9\times&space;10^{1}}{6,25\times&space;10^{18}~C}\\Q~=4,64\times&space;10^{-18}~c" title="Cu~\to 29~\bar{e}\\2,9\times 10^{1}\\Q~= \frac{numero~de~electrones}{6,25\times 10^{18}~C}\\Q~= \frac{2,9\times 10^{1}}{6,25\times 10^{18}~C}\\Q~=4,64\times 10^{-18}C~Respuesta" />
 
-3. ¿Cuántos coulombs de carga poseen 50  1031 electrones?
-
 <img src="https://latex.codecogs.com/svg.image?50\times&space;10^{31}~\bar{e}\\Q~=&space;\frac{numero~de~electrones}{6,25\times&space;10^{18}~C}\\Q~=&space;\frac{50\times&space;10^{31}}{6,25\times&space;10^{18}~C}\\Q~=8\times&space;10^{13}~c\\Q~=80\times&space;10^{12}C~Respuesta" title="50\times 10^{31}~\bar{e}\\Q~= \frac{numero~de~electrones}{6,25\times 10^{18}~C}\\Q~= \frac{50\times 10^{31}}{6,25\times 10^{18}~C}\\Q~=8\times 10^{13}~c\\Q~=80\times 10^{12}C~Respuesta" />
 
-5. Determine el voltaje en cada uno de los siguientes casos:
-(a) 10 J/C (b) 5 J/2 C (c) 100 J/25 C
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a.\end{smallmatrix}\bigr)~\frac{10~J}{C}\\~~~~~~~~~~~V=&space;\frac{W}{Q}\\~~~~~~~~~~~V=&space;\frac{10}{1}~~~~~~~~~~~\\~~~~~~~~~~~V=&space;10~v" title="\bigl(\begin{smallmatrix}a.\end{smallmatrix}\bigr)~\frac{10~J}{C}\\~~~~~~~~~~~V= \frac{W}{Q}\\~~~~~~~~~~~V= \frac{10J}{1C}~~~~~~~~~~~\\~~~~~~~~~~~V= 10~v" />
 
@@ -75,19 +87,8 @@
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~\frac{100~J}{25C}\\~~~~~~~~~~~V=&space;\frac{W}{Q}\\~~~~~~~~~~~V=&space;\frac{100J}{25C}~~~~~~~~~~~\\~~~~~~~~~~~V=&space;4~v~Respuesta" title="\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~\frac{100~J}{25C}\\~~~~~~~~~~~V=&space;\frac{W}{Q}\\~~~~~~~~~~~V=&space;\frac{100J}{25C}~~~~~~~~~~~\\~~~~~~~~~~~V=&space;4~v~Respuesta" />
 
-9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
-calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
-
 <img src="https://latex.codecogs.com/svg.image?~I=&space;\frac{Q}{t}\\~~~~~~Q=&space;I*t\\~~~~~~Q=&space;2A*15S\\~~~~~~Q=&space;30~C\\~~~~~~V=&space;\frac{W}{Q}\\~~~~~~\frac{1000J}{30C}\\~~~~~~V=&space;33,3~v~Respuesta" title="~I= \frac{Q}{t}\\~~~~~~Q= I*t\\~~~~~~Q= 2A*15S\\~~~~~~Q= 30~C\\~~~~~~V= \frac{W}{Q}\\~~~~~~\frac{1000J}{30C}\\~~~~~~V= 33,3~v~Respuesta" />
 
 <img src="https://latex.codecogs.com/svg.image?I=&space;\frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" title="I= \frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" />
 
 <img src="https://latex.codecogs.com/svg.image?Q=&space;I*t\\~~~~~Q=&space;1,5~A~*~0,1~s\\~~~~~Q=&space;0,15C" title="Q= I*t\\~~~~~Q= 1,5~A~*~0,1~s\\~~~~~Q= 0,15C" />
-
-<img src="https://latex.codecogs.com/svg.image?G=&space;\frac{1}{R}\\G=&space;Conductancia\\R=&space;Resistencia" title="G= \frac{1}{R}\\G= Conductancia\\R= Resistencia" />
-
-<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a.\end{smallmatrix}\bigr)~G=&space;\frac{1}{5\mho&space;}\\~~~~~~~~~~~G=&space;0,2~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;200~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}a.\end{smallmatrix}\bigr)~G= \frac{1}{5\mho }\\~~~~~~~~~~~G= 0,2~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 200~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
-
-<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}b.\end{smallmatrix}\bigr)~G=&space;\frac{1}{25\mho&space;}\\~~~~~~~~~~~G=&space;0,04~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;40~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}b.\end{smallmatrix}\bigr)~G= \frac{1}{25\mho }\\~~~~~~~~~~~G= 0,04~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 40~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
-
-<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G=&space;\frac{1}{100\mho&space;}\\~~~~~~~~~~~G=&space;0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G= \frac{1}{100\mho }\\~~~~~~~~~~~G= 0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
