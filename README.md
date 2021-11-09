@@ -34,6 +34,7 @@
 
 ![NOTACION](https://user-images.githubusercontent.com/93835587/140856802-36e9e052-d708-43cc-8944-f4ccc8f60797.jpeg)
 
+![NOTACION2](https://user-images.githubusercontent.com/93835587/140858434-3314f052-d50e-453f-b400-45bde71338a5.jpeg)
 
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
 
