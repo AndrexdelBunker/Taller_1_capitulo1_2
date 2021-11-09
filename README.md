@@ -161,6 +161,27 @@ tolerancia**
 * 100k(ohm)=Cafe/Negro/Amarillo/Oro
 * 39k(ohm)=Naranja/Blanco/Naranja/Oro
 
+**25.Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que
+cada resistor tiene una tolerancia del 5 por ciento.**
+
+* 0.47(ohm)=Rojo/Negro/Amarillo/Oro
+* 270k(ohm)=Rojo/Violeta/Amarillo/Oro
+* 5.1M(ohm)=Verde/Cafe/Verde/Oro
+
+**27.Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que
+cada resistor tiene tolerancia del 1 por ciento.**
+
+* 14.7k(ohm)=Cafe/Amarillo/Violeta/Rojo/Cafe
+* 39.2k(ohm)=Naranja/Blanco/Rojo/Rojo/Cafe
+* 9.76k(ohm)=Blanco/Violeta/Azul/Cafe/Cafe
+
+**29.¿Cuál es la resistencia indicada por 4K7?**
+
+//Amarillo/Violeta/Negro/Cafe/Cafe//
+
+![download](https://user-images.githubusercontent.com/93800511/140851599-4a1fd03c-f0d9-42f6-86c4-4ceab371d1f3.jpg)
+
+
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2**
 
 ![EJERCICIO_31](https://user-images.githubusercontent.com/93835587/140844641-fd05c4c8-067f-42b8-a2c6-6683e9b45708.jpg)
