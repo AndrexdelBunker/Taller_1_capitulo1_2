@@ -83,15 +83,15 @@
 
 **//Capitulo 2//**
 
-1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+**1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
 
 <img src="https://latex.codecogs.com/svg.image?Cu~\to&space;29~\bar{e}\\2,9\times&space;10^{1}\\Q~=&space;\frac{numero~de~electrones}{6,25\times&space;10^{18}~C}\\Q~=&space;\frac{2,9\times&space;10^{1}}{6,25\times&space;10^{18}~C}\\Q~=4,64\times&space;10^{-18}~c" title="Cu~\to 29~\bar{e}\\2,9\times 10^{1}\\Q~= \frac{numero~de~electrones}{6,25\times 10^{18}~C}\\Q~= \frac{2,9\times 10^{1}}{6,25\times 10^{18}~C}\\Q~=4,64\times 10^{-18}C~Respuesta" />
 
-3. ¿Cuántos coulombs de carga poseen 50 x 10^{31} electrones?
+**3. ¿Cuántos coulombs de carga poseen 50 x 10^{31} electrones?**
 
 <img src="https://latex.codecogs.com/svg.image?50\times&space;10^{31}~\bar{e}\\Q~=&space;\frac{numero~de~electrones}{6,25\times&space;10^{18}~C}\\Q~=&space;\frac{50\times&space;10^{31}}{6,25\times&space;10^{18}~C}\\Q~=8\times&space;10^{13}~c\\Q~=80\times&space;10^{12}C~Respuesta" title="50\times 10^{31}~\bar{e}\\Q~= \frac{numero~de~electrones}{6,25\times 10^{18}~C}\\Q~= \frac{50\times 10^{31}}{6,25\times 10^{18}~C}\\Q~=8\times 10^{13}~c\\Q~=80\times 10^{12}C~Respuesta" />
 
-5. Determine el voltaje en cada uno de los siguientes casos:
+**5. Determine el voltaje en cada uno de los siguientes casos:**
 (a) 10 J/C (b) 5 J/2 C (c) 100 J/25 C
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a.\end{smallmatrix}\bigr)~\frac{10~J}{C}\\~~~~~~~~~~~V=&space;\frac{W}{Q}\\~~~~~~~~~~~V=&space;\frac{10}{1}~~~~~~~~~~~\\~~~~~~~~~~~V=&space;10~v" title="\bigl(\begin{smallmatrix}a.\end{smallmatrix}\bigr)~\frac{10~J}{C}\\~~~~~~~~~~~V= \frac{W}{Q}\\~~~~~~~~~~~V= \frac{10J}{1C}~~~~~~~~~~~\\~~~~~~~~~~~V= 10~v" />
@@ -100,12 +100,12 @@
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~\frac{100~J}{25C}\\~~~~~~~~~~~V=&space;\frac{W}{Q}\\~~~~~~~~~~~V=&space;\frac{100J}{25C}~~~~~~~~~~~\\~~~~~~~~~~~V=&space;4~v~Respuesta" title="\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~\frac{100~J}{25C}\\~~~~~~~~~~~V=&space;\frac{W}{Q}\\~~~~~~~~~~~V=&space;\frac{100J}{25C}~~~~~~~~~~~\\~~~~~~~~~~~V=&space;4~v~Respuesta" />
 
-9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
-calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+**9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
+calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 
 <img src="https://latex.codecogs.com/svg.image?~I=&space;\frac{Q}{t}\\~~~~~~Q=&space;I*t\\~~~~~~Q=&space;2A*15S\\~~~~~~Q=&space;30~C\\~~~~~~V=&space;\frac{W}{Q}\\~~~~~~\frac{1000J}{30C}\\~~~~~~V=&space;33,3~v~Respuesta" title="~I= \frac{Q}{t}\\~~~~~~Q= I*t\\~~~~~~Q= 2A*15S\\~~~~~~Q= 30~C\\~~~~~~V= \frac{W}{Q}\\~~~~~~\frac{1000J}{30C}\\~~~~~~V= 33,3~v~Respuesta" />
 
-11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+**11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?**
 
 <img src="https://latex.codecogs.com/svg.image?I=&space;\frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" title="I= \frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" />
 
@@ -113,7 +113,7 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
 
 <img src="https://latex.codecogs.com/svg.image?Q=&space;I*t\\~~~~~Q=&space;1,5~A~*~0,1~s\\~~~~~Q=&space;0,15C" title="Q= I*t\\~~~~~Q= 1,5~A~*~0,1~s\\~~~~~Q= 0,15C" />
 
-15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
+**15. Determine la conductancia para cada uno de los siguientes valores de resistencia:**
 
 <img src="https://latex.codecogs.com/svg.image?G=&space;\frac{1}{R}\\G=&space;Conductancia\\R=&space;Resistencia" title="G= \frac{1}{R}\\G= Conductancia\\R= Resistencia" />
 
