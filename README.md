@@ -9,6 +9,8 @@
 * Coello Ismael 
 * Paola Morales 
 * Andrés Granda 
+
+
 **CLASE**
 * FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
 
@@ -54,12 +56,14 @@
 
 <img src="https://latex.codecogs.com/svg.image?\textrm{}&space;\bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)&plus;\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}&plus;0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" title="\textrm{} \bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)+\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}+0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" />
 
+
+
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
 
 **//Capitulo 2//**
 
-11. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 
 <img src="https://latex.codecogs.com/svg.image?Cu~\to&space;29~\bar{e}\\2,9\times&space;10^{1}\\Q~=&space;\frac{numero~de~electrones}{6,25\times&space;10^{18}~C}\\Q~=&space;\frac{2,9\times&space;10^{1}}{6,25\times&space;10^{18}~C}\\Q~=4,64\times&space;10^{-18}~c" title="Cu~\to 29~\bar{e}\\2,9\times 10^{1}\\Q~= \frac{numero~de~electrones}{6,25\times 10^{18}~C}\\Q~= \frac{2,9\times 10^{1}}{6,25\times 10^{18}~C}\\Q~=4,64\times 10^{-18}C~Respuesta" />
 
