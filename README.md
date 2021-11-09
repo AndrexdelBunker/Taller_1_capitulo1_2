@@ -70,6 +70,13 @@
 
 <img src="https://latex.codecogs.com/svg.image?(c)&space;0.00000000129&space;=1.29&space;\times&space;10^{-9}" title="(c) 0.00000000129 =1.29 \times 10^{-9}" />
 
+**15.Exprese cada uno de los números siguientes en notación de ingeniería:**
+
+<img src="https://latex.codecogs.com/svg.image?(a)0.00345&space;=2.45&space;\times&space;10^{-4}" title="(a)0.00345 =2.45 \times 10^{-4}" />
+
+<img src="https://latex.codecogs.com/svg.image?(b)0.025&space;=2.45&space;\times&space;10^{-2}" title="(b)0.025 =2.45 \times 10^{-2}" />
+
+<img src="https://latex.codecogs.com/svg.image?(c)12.040.000.000.000&space;=1.204&space;\times&space;10^{13}" title="(c)12.040.000.000.000 =1.204 \times 10^{13}" />
 
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
