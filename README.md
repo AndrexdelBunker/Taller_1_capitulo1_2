@@ -78,8 +78,13 @@
 
 <img src="https://latex.codecogs.com/svg.image?(c)12.040.000.000.000&space;=1.204&space;\times&space;10^{13}" title="(c)12.040.000.000.000 =1.204 \times 10^{13}" />
 
-21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
+**17.Sume los números siguientes y exprese cada resultado en notación de ingenieria**
 
+<img src="https://latex.codecogs.com/svg.image?(a).(2.5\times&space;10^{-3})&plus;(4.6\times&space;10^{-3})=&space;7.1\times&space;10^{-3}" title="(a).(2.5\times 10^{-3})+(4.6\times 10^{-3})= 7.1\times 10^{-3}" />
+
+<img src="https://latex.codecogs.com/svg.image?(b).(68\times&space;10^{6})&plus;(33\times&space;10^{6})=&space;101\times&space;10^{6}" title="(b).(68\times 10^{6})+(33\times 10^{6})= 101\times 10^{6}" />
+
+<img src="https://latex.codecogs.com/svg.image?(c).(1.25\times&space;10^{6})&plus;(250\times&space;10^{3})=&space;1.5\times&space;10^{5}" title="(c).(1.25\times 10^{6})+(250\times 10^{3})= 1.5\times 10^{5}" />
 
 **//Capitulo 2//**
 
