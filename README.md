@@ -264,7 +264,19 @@ cada resistor tiene tolerancia del 1 por ciento.**
 
 
 
+![ejer39](https://user-images.githubusercontent.com/93835533/140881853-9f8591ef-a5dc-4bee-8488-457fb8dbf416.png)
 
+* Posición 1: 
+
+V1 = 0 debido a que no pasa corriente.
+
+V2 = Vs debido a que la fuente de voltaje permite el paso de corriente.
+
+* Posición 2:
+
+V1 =  Vs debido a que la fuente de voltaje permite el paso de corriente.
+
+V2 = 0 debido a que no pasa corriente.
 
 
 **41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.**
