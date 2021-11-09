@@ -27,7 +27,8 @@
 
 **2.MARCO TEÓRICO**
 
-NIDADES DE MEDICIÓN (1)](https://user-images.githubusercontent.com/93835587/140856146-93f4d09e-f530-4535-bd88-3350fe354727.jpeg)
+![UNIDADES DE MEDICIÓN (1)](https://user-images.githubusercontent.com/93835587/140856327-cf55b9c4-78e3-424e-8008-dce7b1f7d4a0.jpeg)
+
 
 ![U![Diagrama en blanco](https://user-images.githubusercontent.com/93835587/140856179-f614992b-40ef-4beb-b4de-cb75c950a8c6.jpeg)
 
