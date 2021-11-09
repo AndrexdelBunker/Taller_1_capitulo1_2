@@ -27,7 +27,9 @@
 
 **2.MARCO TEÓRICO**
 
-**3.RESOLUCIÓN DE LOS EJERCICIOS**
+**3![UNIDADES DE MEDICIÓN](https://user-images.githubusercontent.com/93835587/140852558-9be125c6-cff8-4092-bfed-496e21d4889b.jpeg)
+
+.RESOLUCIÓN DE LOS EJERCICIOS**
 
 **//Capitulo 1//**
 
