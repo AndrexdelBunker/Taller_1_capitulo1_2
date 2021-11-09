@@ -140,7 +140,7 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 
 * Baterias
 * Generadores voltaicos 
-* fuentes de alimentacion 
+* Fuentes de alimentacion 
 * Pilas 
 
 **19.¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?**
@@ -151,6 +151,15 @@ Este tipo de fuentes permiten tener un control exacto de la energia suministrada
 
 * (a)  rojo, violeta, naranja, oro= 27000 (ohm)  5% de Tolerancia. 
 * (b)  café, gris, rojo, plata= 1800 (ohm) 10% de Tolerancia.
+
+**23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de
+tolerancia**
+
+* 330(ohm)= Naranja/Naranja/Café/Oro
+* 2.2k(ohm)= Rojo/Rojo/Rojo/Oro
+* 56k(ohm)=Verde/Azul/Naranja/Oro
+* 100k(ohm)=Cafe/Negro/Amarillo/Oro
+* 39k(ohm)=Naranja/Blanco/Naranja/Oro
 
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2**
 
