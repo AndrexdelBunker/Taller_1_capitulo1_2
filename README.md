@@ -16,7 +16,7 @@
 * 09/11/2021
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--**1. OBJETIVOS**-
+**1. OBJETIVOS**
 
 * Estudiar los conceptos basicos de la eléctrica y electrónica por medio de la resolucion de ejercicios propuestos en la clase de Fundamentos de Circuitos Eléctricos 
 
@@ -25,9 +25,14 @@
 * Analizar los contenidos relacionados a la notación cintífica para la ingenieria y a los valores significativos expuestos en las prácticas teóricas de la primera unidad. 
 * Desarrollar los ejercicios propuestos en la segunda unidad referentes a corrientes y resistencias dentro de circuitos simples bajo el uso teórico de un multimetro para medidas. 
 
--**2.MARCO TEÓRICO**-
+**2.MARCO TEÓRICO**
 
--**3.RESOLUCIÓN DE LOS EJERCICIOS**-
+NIDADES DE MEDICIÓN (1)](https://user-images.githubusercontent.com/93835587/140856146-93f4d09e-f530-4535-bd88-3350fe354727.jpeg)
+
+![U![Diagrama en blanco](https://user-images.githubusercontent.com/93835587/140856179-f614992b-40ef-4beb-b4de-cb75c950a8c6.jpeg)
+
+
+**3.RESOLUCIÓN DE LOS EJERCICIOS**
 
 **//Capitulo 1//**
 
@@ -219,13 +224,7 @@ cada una de las siguientes cantidades. Incluya la función y el intervalo apropi
 * (b)/Azul/= R1 /Se Apaga el circuito y se coloca el lado positivo y negativo del multimetro a la par de los lados positivos y negativos de la resistencia a medir y se coloca la configuracion en ohmnios (DC) con escala segun la clave de color del resistor.
 * (c)/Amarillo/= V /Se Colocan lados positivos y negativos  del multimetro acorde a positivos y negatios de la fuente y se coloca la configuracion en voltios (DC) a maximo rango.
 
--**4. VIDEO**-
 
--**5. CONCLUCIONES**-
 
--**6. BIBLIOGRAFÍA**-
 
--**7. RUBRICA**-
-
-![Tarea](https://user-images.githubusercontent.com/93800511/140856107-18517d75-9d59-4686-813c-0b9bbc1706ce.png)
 
