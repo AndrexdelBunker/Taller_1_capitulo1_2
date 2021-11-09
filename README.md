@@ -27,9 +27,7 @@
 
 **2.MARCO TEÓRICO**
 
-![UNIDADES DE MEDICIÓN (1)](https://user-images.githubusercontent.com/93835587/140853791-41219921-5c9a-490b-8a43-8b82efbcff93.jpeg)
-
-.RESOLUCIÓN DE LOS EJERCICIOS**
+**3.RESOLUCIÓN DE LOS EJERCICIOS**
 
 **//Capitulo 1//**
 
@@ -192,9 +190,36 @@ cada resistor tiene tolerancia del 1 por ciento.**
 
 ![EJERCICIO33](https://user-images.githubusercontent.com/93835587/140845371-7262780e-bd33-4aa7-9aa4-88dbaa4e86df.jpg)
 
-Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y
+**35.Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y
  VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
                   VS1 conectada a R1 y VS2 conectada a R2
-                  o VS1 conectada a R2 y VS2 conectada a R1
+                  o VS1 conectada a R2 y VS2 conectada a R1**
  
 ![ejercicio35](https://user-images.githubusercontent.com/93835587/140848458-2dca81f5-d455-443f-a8b0-61e3921a2307.jpg)
+
+**43¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?**
+
+![m1](https://user-images.githubusercontent.com/93800511/140852486-5b661dc7-c2bb-459f-b12b-d4eac8582c4f.png)
+
+//1.5 Volts de Corriente Directa (CD)//
+
+**45.Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de
+ohmmetro:**
+
+* (a) manecilla en 2, ajuste de intervalo en X10
+* (b) manecilla en 15, ajuste de intervalo en X100,000
+* (c) manecilla en 45, ajuste de intervalo en X100
+
+**47.Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir
+cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.**
+
+![m3](https://user-images.githubusercontent.com/93800511/140854410-76db74d4-a5cd-466e-ba34-a267c65d68fa.png)
+
+* (a)= I1 /Se coloca el lado positivo del multimetro en el lado positivo de la fuente, se seapara una parte del circuito posterior al punto deonde se va a medir la intensidad y se mide con la configuracion en amperios (DC) de mas alto rango.
+* (b)= R1 /Se Apaga el circuito y se coloca el lado positivo y negativo del multimetro a la par de los lados positivos y negativos de la resistencia a medir y se coloca la configuracion en ohmnios (DC) con escala segun la clave de color del resistor.
+* (c)= V /Se Colocan lados positivos y negativos  del multimetro acorde a positivos y negatios de la fuente y se coloca la configuracion en voltios (DC) a maximo rango.
+
+
+
+
+
