@@ -30,7 +30,7 @@
 UNIDADES DE MEDICIÓN 
 
 
-![U![Diagrama en blanco](https://user-images.githubusercontent.com/93835587/140856179-f614992b-40ef-4beb-b4de-cb75c950a8c6.jpeg)
+![Diagrama en blanco](https://user-images.githubusercontent.com/93835587/140856179-f614992b-40ef-4beb-b4de-cb75c950a8c6.jpeg)
 
 
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
