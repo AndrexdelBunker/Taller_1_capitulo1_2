@@ -37,6 +37,7 @@
 
 ![conversiones](https://user-images.githubusercontent.com/93835587/140859302-05a6a651-2bbd-461e-a53b-94fd474678eb.jpeg)
 
+![material1](https://user-images.githubusercontent.com/93800511/141023005-2f63a583-d902-4f1c-92db-44a79fde1957.png)
 
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
 
