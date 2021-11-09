@@ -61,21 +61,7 @@
 
 **9. Sume los números siguientes:**
 
-<img src="https://latex.codecogs.com/svg.image?\\~\bigl(a.\bigr)~\bigl(9,2×space;106\bigr)&plus;\bigl(3,4×space;107\bigr)~~~~~\bigl(b.\bigr)~\bigl(5×space;103\bigr)&plus;\bigl(
-8,5×space;10−1
-\bigr)~~~~\\~~~~~~~~~0,92\times&space;10^{7}&plus;3,4\times&space;10^{7}~~~~~~~~~5000&plus;0,85\\~~~~~~~~~4,32\times&space;10^{7}~Respuesta~~~~~~~~~~5000,85~Respuesta" title="9.Sume~los~numeros~siguientes\\~\bigl(
-a
-.\bigr)~\bigl(
-9,2×106
-\bigr)+\bigl(
-3,4×107
-\bigr)~~~~~\bigl(
-b
-.\bigr)~\bigl(
-5×103
-\bigr)+\bigl(
-8,5×10−1
-\bigr)~~~~\\~~~~~~~~~0,92\times 10^{7}+3,4\times 10^{7}~~~~~~~~~5000+0,85\\~~~~~~~~~4,32\times 10^{7}~Respuesta~~~~~~~~~~5000,85~Respuesta" />
+<img src="https://latex.codecogs.com/svg.image?9.Sume~los~numeros~siguientes\\~\bigl(\begin{smallmatrix}a\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}9,2\times&space;10^{6}\end{smallmatrix}\bigr)&plus;\bigl(\begin{smallmatrix}3,4\times&space;10^{7}\end{smallmatrix}\bigr)~~~~~\bigl(\begin{smallmatrix}b\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5\times&space;10^{3}\end{smallmatrix}\bigr)&plus;\bigl(\begin{smallmatrix}8,5\times&space;10^{-1}\end{smallmatrix}\bigr)~~~~\\~~~~~~~~~0,92\times&space;10^{7}&plus;3,4\times&space;10^{7}~~~~~~~~~5000&plus;0,85\\~~~~~~~~~4,32\times&space;10^{7}~Respuesta~~~~~~~~~~5000,85~Respuesta" title="9.Sume~los~numeros~siguientes\\~\bigl(\begin{smallmatrix}a\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}9,2\times 10^{6}\end{smallmatrix}\bigr)+\bigl(\begin{smallmatrix}3,4\times 10^{7}\end{smallmatrix}\bigr)~~~~~\bigl(\begin{smallmatrix}b\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5\times 10^{3}\end{smallmatrix}\bigr)+\bigl(\begin{smallmatrix}8,5\times 10^{-1}\end{smallmatrix}\bigr)~~~~\\~~~~~~~~~0,92\times 10^{7}+3,4\times 10^{7}~~~~~~~~~5000+0,85\\~~~~~~~~~4,32\times 10^{7}~Respuesta~~~~~~~~~~5000,85~Respuesta" />
 
 <img src="https://latex.codecogs.com/svg.image?\textrm{}&space;\bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)&plus;\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}&plus;0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" title="\textrm{} \bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)+\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}+0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" />
 
