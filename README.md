@@ -34,7 +34,7 @@
 
 ![NOTACION](https://user-images.githubusercontent.com/93835587/140856802-36e9e052-d708-43cc-8944-f4ccc8f60797.jpeg)
 
-![NOTACION2](https://user-images.githubusercontent.com/93835587/140858434-3314f052-d50e-453f-b400-45bde71338a5.jpeg)
+![NOTACION2 (1)](https://user-images.githubusercontent.com/93835587/140859882-b8f9dea0-2264-475a-84da-39d5c97e5b31.jpeg)
 
 ![conversiones](https://user-images.githubusercontent.com/93835587/140859302-05a6a651-2bbd-461e-a53b-94fd474678eb.jpeg)
 
