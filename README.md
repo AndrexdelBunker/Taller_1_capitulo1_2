@@ -216,7 +216,7 @@ cada resistor tiene tolerancia del 1 por ciento.**
 
 **29.¿Cuál es la resistencia indicada por 4K7?**
 
-//Amarillo/Violeta/Negro/Cafe/Cafe//
+//Amarillo/Violeta/Negro/Cafe/Cafe// (4700 Ohm)
 
 ![61IQn9hOfiL _AC_SY355_](https://user-images.githubusercontent.com/93800511/140948096-f4a08d75-1c63-4a39-903c-9cf5e14fabbc.jpg)
 
