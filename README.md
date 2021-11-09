@@ -127,3 +127,6 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}b.\end{smallmatrix}\bigr)~G=&space;\frac{1}{25\mho&space;}\\~~~~~~~~~~~G=&space;0,04~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;40~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}b.\end{smallmatrix}\bigr)~G= \frac{1}{25\mho }\\~~~~~~~~~~~G= 0,04~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 40~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G=&space;\frac{1}{100\mho&space;}\\~~~~~~~~~~~G=&space;0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G= \frac{1}{100\mho }\\~~~~~~~~~~~G= 0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
+
+![EJERCICIO_31](https://user-images.githubusercontent.com/93835587/140844641-fd05c4c8-067f-42b8-a2c6-6683e9b45708.jpg)
+
