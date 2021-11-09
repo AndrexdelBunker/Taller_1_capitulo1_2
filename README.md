@@ -27,7 +27,7 @@
 
 **2.MARCO TEÓRICO**
 
-![UNIDADES DE MEDICIÓN](https://user-images.githubusercontent.com/93835587/140852558-9be125c6-cff8-4092-bfed-496e21d4889b.jpeg)
+![UNIDADES DE MEDICIÓN (1)](https://user-images.githubusercontent.com/93835587/140853791-41219921-5c9a-490b-8a43-8b82efbcff93.jpeg)
 
 .RESOLUCIÓN DE LOS EJERCICIOS**
 
