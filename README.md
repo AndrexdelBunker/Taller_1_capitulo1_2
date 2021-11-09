@@ -215,9 +215,9 @@ cada una de las siguientes cantidades. Incluya la función y el intervalo apropi
 
 ![m3](https://user-images.githubusercontent.com/93800511/140854410-76db74d4-a5cd-466e-ba34-a267c65d68fa.png)
 
-* (a)= I1 /Se coloca el lado positivo del multimetro en el lado positivo de la fuente, se seapara una parte del circuito posterior al punto deonde se va a medir la intensidad y se mide con la configuracion en amperios (DC) de mas alto rango.
-* (b)= R1 /Se Apaga el circuito y se coloca el lado positivo y negativo del multimetro a la par de los lados positivos y negativos de la resistencia a medir y se coloca la configuracion en ohmnios (DC) con escala segun la clave de color del resistor.
-* (c)= V /Se Colocan lados positivos y negativos  del multimetro acorde a positivos y negatios de la fuente y se coloca la configuracion en voltios (DC) a maximo rango.
+* (a) /Verde/= I1 /Se coloca el lado positivo del multimetro en el lado positivo de la fuente, se seapara una parte del circuito posterior al punto deonde se va a medir la intensidad y se mide con la configuracion en amperios (DC) de mas alto rango.
+* (b)/Azul/= R1 /Se Apaga el circuito y se coloca el lado positivo y negativo del multimetro a la par de los lados positivos y negativos de la resistencia a medir y se coloca la configuracion en ohmnios (DC) con escala segun la clave de color del resistor.
+* (c)/Amarillo/= V /Se Colocan lados positivos y negativos  del multimetro acorde a positivos y negatios de la fuente y se coloca la configuracion en voltios (DC) a maximo rango.
 
 
 
