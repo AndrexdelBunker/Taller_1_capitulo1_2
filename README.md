@@ -83,11 +83,11 @@
 
 **15.Exprese cada uno de los números siguientes en notación de ingeniería:**
 
-<img src="https://latex.codecogs.com/svg.image?(a)0.00345&space;=2.45&space;\times&space;10^{-4}" title="(a)0.00345 =24 \times 10^{-3}" />
+<img src="https://latex.codecogs.com/svg.image?(a)0.00345&space;=2.45&space;\times&space;10^{-3}" title="(a)0.00345&space;=2.45&space;\times&space;10^{-3}" />
 
-<img src="https://latex.codecogs.com/svg.image?(b)0.025&space;=2.45&space;\times&space;10^{-2}" title="(b)0.025 =24 \times 10^{-3}" />
+<img src="https://latex.codecogs.com/svg.image?(b)0.025&space;=2.45&space;\times&space;10^{-3}" title="(b)0.025&space;=2.45&space;\times&space;10^{-3}" />
 
-<img src="https://latex.codecogs.com/svg.image?(c)12.040.000.000.000&space;=1.204&space;\times&space;10^{13}" title="(c)12.040.000.000.000 =12 \times 10^{12}" />
+<img src="https://latex.codecogs.com/svg.image?(c)12.040.000.000.000&space;=1.204&space;\times&space;10^{12}" title="(c)12.040.000.000.000&space;=1.204&space;\times&space;10^{12}" />
 
 **17.Sume los números siguientes y exprese cada resultado en notación de ingenieria**
 
