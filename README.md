@@ -132,3 +132,9 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 
 ![EJERCICIO_31](https://user-images.githubusercontent.com/93835587/140844641-fd05c4c8-067f-42b8-a2c6-6683e9b45708.jpg)
 
+33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito
+
+![EJERCICIO33](https://user-images.githubusercontent.com/93835587/140845371-7262780e-bd33-4aa7-9aa4-88dbaa4e86df.jpg)
+
+
+
