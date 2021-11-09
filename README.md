@@ -160,5 +160,9 @@ Este tipo de fuentes permiten tener un control exacto de la energia suministrada
 
 ![EJERCICIO33](https://user-images.githubusercontent.com/93835587/140845371-7262780e-bd33-4aa7-9aa4-88dbaa4e86df.jpg)
 
-
-
+Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y
+ VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
+                  VS1 conectada a R1 y VS2 conectada a R2
+                  o VS1 conectada a R2 y VS2 conectada a R1
+ 
+![ejercicio35](https://user-images.githubusercontent.com/93835587/140848458-2dca81f5-d455-443f-a8b0-61e3921a2307.jpg)
