@@ -136,6 +136,22 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G=&space;\frac{1}{100\mho&space;}\\~~~~~~~~~~~G=&space;0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}c.\end{smallmatrix}\bigr)~G= \frac{1}{100\mho }\\~~~~~~~~~~~G= 0,01~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 10~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
 
+**17.Enliste cuatro fuentes de voltaje comunes.**
+
+* Baterias
+* Generadores voltaicos 
+* fuentes de alimentacion 
+* Pilas 
+
+**19.¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?**
+
+Este tipo de fuentes permiten tener un control exacto de la energia suministrada a un objeto (x) lo que resulta en una estabilidad para los equipos electronicos conectados a esta, asi como registro preciso de las funciones en base a las corrientes suministradas.
+
+**21.Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas**
+
+* (a)  rojo, violeta, naranja, oro= 27000 (ohm)  5% de Tolerancia. 
+* (b)  café, gris, rojo, plata= 1800 (ohm) 10% de Tolerancia.
+
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2**
 
 ![EJERCICIO_31](https://user-images.githubusercontent.com/93835587/140844641-fd05c4c8-067f-42b8-a2c6-6683e9b45708.jpg)
