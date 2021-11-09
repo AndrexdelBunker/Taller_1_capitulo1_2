@@ -75,3 +75,4 @@
 <img src="https://latex.codecogs.com/svg.image?I=&space;\frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" title="I= \frac{Q}{t}\\~~~~~I=\frac{\frac{6}{10}C}{\frac{3}{1}S}\\~~~~~I=\frac{6}{30}A\\~~~~~I=0,2~A" />
 
 <img src="https://latex.codecogs.com/svg.image?Q=&space;I*t\\~~~~~Q=&space;1,5~A~*~0,1~s\\~~~~~Q=&space;0,15C" title="Q= I*t\\~~~~~Q= 1,5~A~*~0,1~s\\~~~~~Q= 0,15C" />
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a.\end{smallmatrix}\bigr)~G=&space;\frac{1}{5\mho&space;}\\~~~~~~~~~~~G=&space;0,2~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G=&space;200~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" title="\bigl(\begin{smallmatrix}a.\end{smallmatrix}\bigr)~G= \frac{1}{5\mho }\\~~~~~~~~~~~G= 0,2~s~\bigl(siemens\begin{smallmatrix}\end{smallmatrix}\bigr)\\~~~~~~~~~~~G= 200~ms\bigl(\begin{smallmatrix}milisiemens\end{smallmatrix}\bigr)" />
