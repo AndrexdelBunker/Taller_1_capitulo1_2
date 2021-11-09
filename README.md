@@ -13,7 +13,7 @@
 * FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
 
 **FECHA DE ENTREGA**
-* 09/11/2021
+* 12/11/2021
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1. OBJETIVOS**
@@ -74,12 +74,12 @@
 <img src="https://latex.codecogs.com/svg.image?(\begin{smallmatrix}c\end{smallmatrix}\bigr).&space;(1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3.6\times&space;10^{14}&space;" title="(\begin{smallmatrix}c\end{smallmatrix}\bigr). (1.2\times10^{12})(3\times10^{2})~Respuesta~~~~~~~~~3.6\times&space;10^{14} " />
 
 **13.Exprese cada uno de los números siguientes en notación de ingeniería:**
+ 
+<img src="https://latex.codecogs.com/svg.image?(a&space;)&space;89.000=&space;8.9\times&space;10^{3}" title="(a&space;)&space;89.000=&space;8.9\times&space;10^{3}" />
 
-<img src="https://latex.codecogs.com/svg.image?(a&space;)&space;89.000=&space;8.9\times&space;10^{4}" title="(a ) 89.000= 89\times 10^{3}" />
+<img src="https://latex.codecogs.com/svg.image?(b)&space;450.000&space;=&space;45\times&space;10^{6}" title="(b)&space;450.000&space;=&space;45\times&space;10^{6}" />
 
-<img src="https://latex.codecogs.com/svg.image?(b)&space;450.000&space;=&space;4.5\times&space;10^{5}" title="(b) 450.000 = 450\times 10^{6}" />
-
-<img src="https://latex.codecogs.com/svg.image?(c)&space;0.00000000129&space;=1.29&space;\times&space;10^{-9}" title="(c) 0.00000000129 =1.29 \times 10^{-9}" />
+<img src="https://latex.codecogs.com/svg.image?(c)&space;0.00000000129&space;=1.29&space;\times&space;10^{-9}" title="(c)&space;0.00000000129&space;=1.29&space;\times&space;10^{-9}" />
 
 **15.Exprese cada uno de los números siguientes en notación de ingeniería:**
 
