@@ -283,7 +283,11 @@ V2 = 0 debido a que no pasa corriente.
 
 
 
+![ejercicio 41](https://user-images.githubusercontent.com/93835533/140883739-60017c5c-3047-4cc2-a0d9-c01ce9a2b8bd.png)
 
+
+
+![ejercicio 412 0](https://user-images.githubusercontent.com/93835533/140889039-0b7afbe8-6480-4dcd-b97a-ccd639f50d67.png)
 
 
 **43¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?**
