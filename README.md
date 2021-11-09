@@ -99,7 +99,7 @@
 
 **19.Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-<img src="https://latex.codecogs.com/svg.image?(a).(50)/(2.2\times&space;10^{3})=&space;0.02272727273\times&space;10^{-2}" title="(a).(50)/(2.2\times 10^{3})= 0.02272727273\times 1.0^{-3}" />
+<img src="https://latex.codecogs.com/svg.image?(a).(50)/(2.2\times&space;10^{3})=&space;0.022\times&space;10^{-3}" title="(a).(50)/(2.2\times 10^{3})= 0.02272727273\times 1.0^{-3}" />
 
 <img src="https://latex.codecogs.com/svg.image?(b).(5\times&space;10^{3})/(25\times&space;10^{-6})=&space;2\times&space;10^{8}" title="(b).(5\times 10^{3})/(25\times 10^{-6})= 2.6\times 10^{9}" />
 
