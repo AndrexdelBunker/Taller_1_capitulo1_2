@@ -9,8 +9,6 @@
 * Coello Ismael 
 * Paola Morales 
 * Andrés Granda 
-
-
 **CLASE**
 * FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
 
@@ -55,8 +53,6 @@
 <img src="https://latex.codecogs.com/svg.image?\\~\bigl(\begin{smallmatrix}a\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}9,2\times&space;10^{6}\end{smallmatrix}\bigr)&plus;\bigl(\begin{smallmatrix}3,4\times&space;10^{7}\end{smallmatrix}\bigr)~~~~~\bigl(\begin{smallmatrix}b\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5\times&space;10^{3}\end{smallmatrix}\bigr)&plus;\bigl(\begin{smallmatrix}8,5\times&space;10^{-1}\end{smallmatrix}\bigr)~~~~\\~~~~~~~~~0,92\times&space;10^{7}&plus;3,4\times&space;10^{7}~~~~~~~~~5000&plus;0,85\\~~~~~~~~~4,32\times&space;10^{7}~Respuesta~~~~~~~~~~5000,85~Respuesta" title="9.Sume~los~numeros~siguientes\\~\bigl(\begin{smallmatrix}a\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}9,2\times 10^{6}\end{smallmatrix}\bigr)+\bigl(\begin{smallmatrix}3,4\times 10^{7}\end{smallmatrix}\bigr)~~~~~\bigl(\begin{smallmatrix}b\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5\times 10^{3}\end{smallmatrix}\bigr)+\bigl(\begin{smallmatrix}8,5\times 10^{-1}\end{smallmatrix}\bigr)~~~~\\~~~~~~~~~0,92\times 10^{7}+3,4\times 10^{7}~~~~~~~~~5000+0,85\\~~~~~~~~~4,32\times 10^{7}~Respuesta~~~~~~~~~~5000,85~Respuesta" />
 
 <img src="https://latex.codecogs.com/svg.image?\textrm{}&space;\bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)&plus;\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}&plus;0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" title="\textrm{} \bigl(\begin{smallmatrix}c\end{smallmatrix}.\bigr)~\bigl(\begin{smallmatrix}5,6\times&space;10^{-8}\end{smallmatrix}\bigr)+\bigl(\begin{smallmatrix}4,6\times&space;10^{-9}\end{smallmatrix}\bigr)\\~~~~~~~~~~~~~5,6\times&space;10^{-8}+0,46\times&space;10^{-8}\\~~~~~~~~~~~~~6,06\times&space;10^{-8}~Respuesta" />
-
-
 
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
