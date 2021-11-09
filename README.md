@@ -27,10 +27,11 @@
 
 **2.MARCO TEÓRICO**
 
-UNIDADES DE MEDICIÓN 
+
+![UNIDADES DE MEDICIÓN (1)](https://user-images.githubusercontent.com/93835587/140856826-189b8940-3e17-436d-aca3-98cae312aa65.jpeg)
 
 
-![Diagrama en blanco](https://user-images.githubusercontent.com/93835587/140856179-f614992b-40ef-4beb-b4de-cb75c950a8c6.jpeg)
+![NOTACION](https://user-images.githubusercontent.com/93835587/140856802-36e9e052-d708-43cc-8944-f4ccc8f60797.jpeg)
 
 
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
