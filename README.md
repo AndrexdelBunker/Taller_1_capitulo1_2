@@ -58,6 +58,8 @@
 
 **//Capitulo 1//**
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **1. Exprese cada uno de los números siguientes en notación científica:**
 
 <img src="https://latex.codecogs.com/svg.image?\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~3000~~~~~~~~~~~~~~~~~~~~~~\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)~7.5000~~~~~~~~~~~~~~~~~~~~~\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)~2.000.000\\~~~~~~~3\times&space;10^{3}~Respuesta~~~~~~~~~7,5\times&space;10^{4}~Respuesta~~~~~~~~2\times&space;10^{6}~Respuesta" title="1.Exprese~cada ~uno~de~los~numeros~siguientes~en~notacion~cientifica\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~3000~~~~~~~~~~~~~~~~~~~~~~\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)~7.5000~~~~~~~~~~~~~~~~~~~~~\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)~2,000,000\\~~~~~~~3\times 10^{3}~Respuesta~~~~~~~~~7,5\times 10^{4}~Respuesta~~~~~~~~2\times 10^{6}~Respuesta" />
@@ -142,9 +144,11 @@
 
 <img src="https://latex.codecogs.com/svg.image?\\(a)50~mA&space;&plus;&space;680~\mu&space;A\\\\680x10^{-6}A&space;\Rightarrow&space;0.68x10^{-3}A\\50mA&plus;0.68mA=50.68mA\\\\(b)120~k\Omega&space;&space;&plus;&space;2.2~M\Omega&space;\\\\120x10^{3}\Omega&space;\Rightarrow&space;0.12x10^{6}\Omega&space;\\0.12M\Omega&space;&plus;2.2M\Omega&space;=&space;2.32M\Omega&space;&space;\\\\(c)0.02~\mu&space;F&space;&plus;&space;3300~pF\\\\3300x10^{-12}F\Rightarrow&space;0.0033x10^{-6}F\\0.02\mu&space;F&plus;0.0033\mu&space;F&space;=&space;0.0233\mu&space;F\\&space;" title="\\(a)50~mA + 680~\mu A\\\\680x10^{-6}A \Rightarrow 0.68x10^{-3}A\\50mA+0.68mA=50.68mA\\\\(b)120~k\Omega + 2.2~M\Omega \\\\120x10^{3}\Omega \Rightarrow 0.12x10^{6}\Omega \\0.12M\Omega +2.2M\Omega = 2.32M\Omega \\\\(c)0.02~\mu F + 3300~pF\\\\3300x10^{-12}F\Rightarrow 0.0033x10^{-6}F\\0.02\mu F+0.0033\mu F = 0.0233\mu F\\ " />
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **//Capitulo 2//**
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
 
@@ -313,5 +317,18 @@ cada una de las siguientes cantidades. Incluya la función y el intervalo apropi
 * (b)/Azul/= R1 /Se Apaga el circuito y se coloca el lado positivo y negativo del multimetro a la par de los lados positivos y negativos de la resistencia a medir y se coloca la configuracion en ohmnios (DC) con escala segun la clave de color del resistor.
 * (c)/Amarillo/= V /Se Colocan lados positivos y negativos  del multimetro acorde a positivos y negatios de la fuente y se coloca la configuracion en voltios (DC) a maximo rango.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**4.VIDEOS**
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**5.CONCLUCIONES
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**6.BIBLIOGRAFÍA**
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
