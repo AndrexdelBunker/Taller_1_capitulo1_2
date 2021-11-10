@@ -39,6 +39,8 @@
 
 ![material1](https://user-images.githubusercontent.com/93800511/141023005-2f63a583-d902-4f1c-92db-44a79fde1957.png)
 
+![material2](https://user-images.githubusercontent.com/93800511/141030029-4e4ba6fa-796a-470c-8d6f-25d8497c8eb7.png)
+
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
 
 **//Capitulo 1//**
