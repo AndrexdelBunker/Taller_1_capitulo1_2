@@ -325,6 +325,10 @@ cada una de las siguientes cantidades. Incluya la función y el intervalo apropi
 
 **5.CONCLUCIONES**
 
+En conclucion en lo que respecta a las cifras significativas logramos reconocer su usu e importancia para la ingenieria y otras ciencias, su valor al estimar datos de escalas mayores o menores a la que se acostumbra en los calculos matematicos simplifica los calculos de cualquier operacion relacionada con la electronica complementando el conocimiento sobre valores representativos.
+
+Respecto a los conceptos relacionados a la electrónica fundamental tales como el voltaje, corriente y resistencia se pudo observar de manera práctica la relación estre los 3 conceptos, permitiendo un análisis completo sobre sus aplicaciones al cálculo de circuitos electrónicos y como se desarrollan estos conceptos en un ambiente práctico aplicable a la ingeniería, reconociendo los tipos y fotmas de los componentes a usar en la construcción de circuitos que se ven intimamente relacionados a los conceptos antes descritos, incluso permitiendonos desarrollar conocimientos sobre las formas de medir, calcular y predecir dichas relaciones
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **6.BIBLIOGRAFÍA**
