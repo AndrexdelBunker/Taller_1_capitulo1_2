@@ -332,7 +332,7 @@ Respecto a los conceptos relacionados a la electrónica fundamental tales como e
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **6.BIBLIOGRAFÍA**
-
+https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
