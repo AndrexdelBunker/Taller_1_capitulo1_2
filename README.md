@@ -329,6 +329,7 @@ cada una de las siguientes cantidades. Incluya la función y el intervalo apropi
 **4.VIDEOS**
 
 https://youtu.be/T9dI9H_5TPE
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **5.CONCLUCIONES**
@@ -342,6 +343,7 @@ Respecto a los conceptos relacionados a la electrónica fundamental tales como e
 **6.BIBLIOGRAFÍA**
 
 Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
